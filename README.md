@@ -3,7 +3,7 @@ This is a news application for general news
 
 The Daily Journalist
 
-## 📝 Project Overview
+##  Project Overview
 **The Daily Journalist** is a Django-powered news platform designed for managing general news articles and newsletters. It features a robust, role-based permission system and a centralized template architecture to ensure a clean and maintainable codebase.
 
 ### Main Features
